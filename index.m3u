@@ -354,7 +354,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-Canal-clombiano-rcn-tv.jpg",RCN 
 http://186.101.216.211:8000/play/a09k
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED+
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/Canales/Canal-atv-1694-v1.jpg",ATV COLOMBIA
 https://movil.ejeserver.com/live/verteve.m3u8
 
