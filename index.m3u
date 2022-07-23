@@ -107,7 +107,7 @@ https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png",San Jose TV Canal 48
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://telefides.com/wp-content/uploads/2017/06/telefides-logo.png",Telefides Canal 40
-https://s2.cwebtv.net3/telefides/telefides/playlist.m3u8
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png",Extra TV 42
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x83sd3v
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjlUzJnkRlsiLAGKcV8PRQru3s1j-MSUftsqVTbTQ=s400",Ticavision
@@ -1468,7 +1468,7 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/2
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_95bf7301ff9847eeafd13b08e3570b64~mv2.png",MULTIVISION Canal 3
 https://multivision.digitalgt.com:442/hls/multivision/5_6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a2/a0/57/a2a057c1930bfebadfe25ae135fd2993.jpg",MY TIME
-https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image11649781372.jpg",Imagen TV Canal 5 Rioja
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
@@ -1480,7 +1480,7 @@ https://videohd.live:19360/8050/8050.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA",La voz de Tucuman
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",Canal 32 SPTV
-https://srv6.zcast.com.br/sptv/sptv/.m3u8
+https://srv6.zcast.com.br:443/sptv/sptv/.m3u8
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/Canal-34-san-juan.png"group-title="ARGENTINA", Canal 34 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s400" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
@@ -1680,7 +1680,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cp4FgTVMjPl0e9tl9YEQ5KK1L-u
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA",CanalES MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1856309372.m3u8
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m",STAR MOVIEMI
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.vectorstock.com/i/1000x1000/75/73/play-button-Cinema-movie-logo-vector-22997573.jpg",MOVIE CLASICOS
