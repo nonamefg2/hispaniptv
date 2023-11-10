@@ -809,7 +809,7 @@ https://cacatuaiptv.com/telemicro5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKWFgeQ.png",Antena 7
 http://45.228.232.219:16000/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="Color.Visión.(COLORVIS).do" tvg-logo="https://i.imgur.com/3Tcla6A.png",Color Visión (Canal 9)
-https://cacatuaiptv.com/colorvision9.m3u8
+https://github.com/azgaresncf/strm2hls/raw/main/streams/Color_Vision.m3u8
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-Canal-10-9607-300x225.jpg",Vallevision (Canal 10)
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZzeZKCu.png",Telesistema 11
