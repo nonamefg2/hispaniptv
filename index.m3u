@@ -48,9 +48,9 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-goxrWf8cFGLN4vk5HPs0UkYDUUWCB6Wq65RikWVxrCmR5tBPAmm3NuxWlEd8BzUrA",Occidente en Linea
 https://inliveserver.com:1936/15508/15508/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvtica.com/images/192X192.png",TV TICA
-https://lstv.duckdns.org:449/hls/hls/tvtica.m3u8
+https://lstv.duckdns.org:449/hls/tvtica.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2021-12/stv-sarapiquitv-costa-rica.png",Sarapiqui TV (STV)
-https://lstv.duckdns.org:449/hls/hls/stv.m3u8
+https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQGNNc_SP0UOKQ/company-logo_200_200/0/1519922049922?e=2159024400&v=beta&t=4lP4qlmwYzbfnFtM7fXJiF7YMtgJNN6s7J1yh4lTgho",MORA.TV
 https://srv2.zcast.com.br/moratvcr/moratvcr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWiHhnl_LIvmUouL_wUjbExnsPKMWj2014ALYkZUx_ts9BWs8vwjvr9EQLT97uju9ZNUY",Classic Movies
@@ -62,37 +62,35 @@ https://stmv1.srvif.com/ronald5612/ronald5612/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFaSSBG22mZ2_RBvFlUXwuS7R3oNu_XRCbQ",TVO Occidente
 https://59ef525c24caa.streamlock.net/tvoccidente/tvoccidente/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-11/tv-digital-chirripo-costa-rica.png",TV Digital Chirripo
-https://tiquiciatv.duckdns.orG/hls/livetvdc.m3u8
+https://tiquiciatv.duckdns.org/hls/livetvdc.m3u8
 #EXTINF:-1 tvg-logo="https://www.unored247.com/bill/templates/smartlinehost/html/images/extrema_client_logo.png",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://multizonastv.com/wp-content/uploads/2021/09/logo-1.png",multizonastv
-https://stmv1.srvif.com/multizonastv/multizonastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUVkvlJfFDQWQ6x4O3dXlr9DmiLcMFfrY-db2de5YBYtm6QthQLaS_Hu1Zvjm1yMlrpo",Vision America
+#EXTINF:-1 tvg-logo="https://multizonastv.com/wp-content/uploads/2021/09/logo-1.png",Multizonas TV
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUVkvlJfFDQWQ6x4O3dXlr9DmiLcMFfrY-db2de5YBYtm6QthQLaS_Hu1Zvjm1yMlrpo",Visión America
 https://5bf8041cb3fed.streamlock.net/VisionAmericaTV/VisionAmericaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png",TeleClasicos
 https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/telemascr.com/wp-content/uploads/2020/10/LOGO-WEB.png?fit=277%2C149&ssl=1",SAN RAFAEL.TV LINE
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-02/los-santos-tv-costa-rica.png",LOS SANTOS.TV
-https://lstv.duckdns.org:449/hls/hls/lstv.m3u8
+https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2021-02/radio-best-music-tv-costa-rica.png",Radio Best Music TV
 https://cp.sradiotv.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/player_image/public/2022-01/RBM%2520TV%2520%25231-Costa-Rica.png.webp",RBM TV #1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x80eqjv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4Xx1iBMn-Axx-ijNUe1DLOkl4bJyo74q5YhsFox4dJ-2alY4PYQDTSXAV9M_7kaOIJo",VM Latino EL Canal DE LA MUSICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.grupodgrajal.com/images/logo%203.png",Guatuso Celeste Channel 
 https://inliveserver.com:1936/15004/15004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="Musica",Colosal TV
 https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-01/tvretro-palmares-costa-rica.png",RETRO TV PALMARES
-https://tna5.bozztv.com/tvretro1971/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png",RETRO TV PALMARES 
-http://tvretropalmares.com90/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png",TV Retro Palmares
+https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ecb6af6b77a9b37f378b780cc32a1b1e15c2d8efecca0ef3417bb331efb36fcd.png",Telemas
 https://webmedialive.org:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY",Antena Seis TV Canal 32
-https://cloudvideo.servers10.com:8081/8132/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY",Antena Seis TV
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/upload2/1642771619757.png?quality=100&width=456&height=456&fit=crop",Trivision 36
 https://streannlivepeitv.cachefly.net/peitv1/peitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.Canal38cr.com/wp-content/uploads/2019/10/Logo-Nuevo-400.jpg",Canal 38
@@ -111,12 +109,8 @@ https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XO0l2vWiBmE/hqdefault_live.jpg",Radio Turrialba TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x88mu9v
-#EXTINF:-1 tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",Canal 88 Stereo 
+#EXTINF:-1 tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",88 Stereo 
 https://59ef525c24caa.streamlock.net/CableLatino/88stereo/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/06/LOGO-MARZENIA-sports-CURVAStitle-1.png",MZ Sports
-https://video.misistemareseller.com/mzsports/mzsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mzsportscr.com/wp-content/uploads/2022/07/marzenia-sports-plus-1.1-300x85.png",MZ Sports Plus
-https://59ef525c24caa.streamlock.net/canalmz/canalmz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",Tigo Sports (Costa Rica)
 http://170.82.37.21:8000/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/38fda73816f4d852003948f06e0bb46f.jpg",TSM Sports
@@ -132,21 +126,21 @@ http://190.83.119.67:8000/play/a0pc/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HvyjkNJmtei9lWUO0ZWhMw3fzSKO_vGgpfQf2ndl_KsVzUdWZwF0cK_MNdFs5XLOfGE",Nicaragua
 https://st1.chatovod.com/widget/sounds/msg.mp3
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/televicentro-gua-500x500-300x300.jpg",Televicentro
-http://nicatv.rylco.com:8075/channel2/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ni-canal-4-nicaragua-9955.jpg",Canal 4
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7rwv8c
+http://45.228.232.219:16000/play/a0nk/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1550248461198565377/kHNTwYXN.jpg",Canal 6
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dailymotion.com/Canal6nicaraguaoficial
+https://cootv.cootel.com.ni:8095/Canal06_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA",Canal 8
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+http://45.228.232.219:16000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image1295564463.jpg",Canal 9 
-http://nicatv.rylco.com:8075/channel9/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal09_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png",Canal 10
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal10_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm2ZYMFAUHTdq_BjIfNchqFkNhPo5eqjZm26zyahtBlWLjXDAZ",TV Red
-http://nicatv.rylco.com:8075/channel11/playlist.m3u8
+https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048",Nicavision
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+http://45.228.232.219:16000/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/K38m0cmji8HXMFCv_cdL4LWilYduOhmhNf-I7r4d9EtfcJR0rJYErOdB8wm3kJgx8qwa",Viva Nicaragua Canal 13
 https://github.com/azgaresncf/strm2hls/raw/main/streams/Viva_Nicaragua_Canal_13.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eOs3XCqn2CY/maxresdefault.jpg",WTV Canal 20
